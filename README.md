@@ -12,7 +12,7 @@ I'm currently just exploring things that I like.
 * **HTML/CSS**: Eazy.
 * **Python**: This was actually the first language I learned.
 * **Flask/Django**: I'm good at both frameworks. Whether you use Flask or Django, I can work with you.
-* **PyGame**: I think not a lot of people use PyGame, mostly indie developers would. But I may be wrong. Either way, one more technology under my belt of power.
+* **PyGame**: I'm not a very big fan of PyGame. Either way, one more technology under my belt of power.
 
 
 I've always found that projects are the best way to learn. Applying what you've learned and building something useful with it is the best way to learn. If you have a project you'd like me on, you can reach me at:
