@@ -17,7 +17,7 @@ I'm currently just exploring things that I like.
 
 I've always found that projects are the best way to learn. Applying what you've learned and building something useful with it is the best way to learn. If you have a project you'd like me on, you can reach me at:
 - **Email:** hassanaziz0012@gmail.com
-- **Discord:** Hassan#3557
+- **Discord:** Hassan#3557 \
 If you wish to hire me for a project, I am also available on Fiverr here: https://www.fiverr.com/users/fvrhassan/
 
 <!--
