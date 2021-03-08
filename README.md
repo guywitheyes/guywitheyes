@@ -1,18 +1,17 @@
 # Hi there 👋
 
-I'm Hassan, a programmer. I have extensive knowledge and experience working in Python, especially web frameworks such as Django and Flask. I'm fairly proficient in Javascript, but haven't studied it seriously. I enjoy coding and learning new things. I currently live in Pakistan.
+I'm Hassan, a programmer. I have extensive knowledge and experience working in Python, especially web frameworks such as Django and Flask. I'm also very good at Javascript. I enjoy coding and learning new things. I currently live in Pakistan.
 
 I'm currently just exploring things that I like.
 
 ## What I'm working on:
 - **Python:** I'm pretty great at Python, but there's always more to learn.
-- **Django:** Getting better and better every day. I will build some Django projects and upload them here on my GitHub profile, soon.
+- **Javascript:** There are a couple advanced topics that need some work.  
 
 ## Technologies I know:
-* **HTML/CSS**: Eazy.
+* **HTML/CSS/JS**: Eazy.
 * **Python**: This was actually the first language I learned.
 * **Flask/Django**: I'm good at both frameworks. Whether you use Flask or Django, I can work with you.
-* **PyGame**: I'm not a very big fan of PyGame. Either way, one more technology under my belt of power.
 
 
 I've always found that projects are the best way to learn. Applying what you've learned and building something useful with it is the best way to learn. If you have a project you'd like me on, you can reach me at:
