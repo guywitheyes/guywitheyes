@@ -6,7 +6,7 @@ I'm currently just exploring things that I like.
 
 ## What I'm working on:
 - **Python:** I'm pretty great at Python, but there's always more to learn.
-- **Javascript:** There are a couple advanced topics that need some work.  
+- **React and React Native:** Some advanced topics remain that need to be learned.
 
 ## Technologies I know:
 * **HTML/CSS/JS**: Eazy.
