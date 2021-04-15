@@ -12,6 +12,8 @@ I'm currently just exploring things that I like.
 * **HTML/CSS/JS**: Eazy.
 * **Python**: This was actually the first language I learned.
 * **Flask/Django**: I'm good at both frameworks. Whether you use Flask or Django, I can work with you.
+* **React**: I use React a lot for my front end in almost all of my projects, unless they're so small that a framework would basically be overkill or not worth it.
+* **React Native**: I'm also pretty good at React Native, so app development is another one of my skills.
 
 
 I've always found that projects are the best way to learn. Applying what you've learned and building something useful with it is the best way to learn. If you have a project you'd like me on, you can reach me at:
