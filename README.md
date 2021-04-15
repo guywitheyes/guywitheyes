@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Hassan, a programmer. I have extensive knowledge and experience working in Python, especially web frameworks such as Django and Flask. I'm also very good at Javascript. I enjoy coding and learning new things. I currently live in Pakistan.
+I'm Hassan, a programmer. I have extensive knowledge and experience working in Python, especially web frameworks such as Django and Flask. I'm also very good at Javascript. I enjoy coding and learning new things.
 
 I'm currently just exploring things that I like.
 
